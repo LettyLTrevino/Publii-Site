@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lettyltrevino.github.io/Publii-Site/sitemap.xml

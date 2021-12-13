@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Letty&#x27;s Wonderful Website</title>
+    <link href="https://lettyltrevino.github.io/Publii-Site/feed.xml" rel="self" />
+    <link href="https://lettyltrevino.github.io/Publii-Site" />
+    <updated>2021-12-12T18:37:30-08:00</updated>
+    <author>
+        <name>Letty Trevino</name>
+    </author>
+    <id>https://lettyltrevino.github.io/Publii-Site</id>
+
+    <entry>
+        <title>Home Page</title>
+        <author>
+            <name>Letty Trevino</name>
+        </author>
+        <link href="https://lettyltrevino.github.io/Publii-Site/lettys-wonderful-website.html"/>
+        <id>https://lettyltrevino.github.io/Publii-Site/lettys-wonderful-website.html</id>
+
+        <updated>2021-12-12T18:37:30-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello Wendy &amp; Peers of Digital Storytelling! This is my website. On this site I outline my plans for the final project. But first... Hi, my name is Letty Treviño. Here's a picture of what I look like: My final project for this class will&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello Wendy &amp; Peers of Digital Storytelling!</p>
+<p>This is my website. On this site I outline my plans for the final project. But first...</p>
+<p>Hi, my name is Letty Treviño. Here's a picture of what I look like:</p>
+<figure class="post__image post__image--left" ><img loading="lazy" src="https://lettyltrevino.github.io/Publii-Site/media/posts/1/IMG_0631.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lettyltrevino.github.io/Publii-Site/media/posts/1/responsive/IMG_0631-xs.jpg 300w ,https://lettyltrevino.github.io/Publii-Site/media/posts/1/responsive/IMG_0631-sm.jpg 480w ,https://lettyltrevino.github.io/Publii-Site/media/posts/1/responsive/IMG_0631-md.jpg 768w ,https://lettyltrevino.github.io/Publii-Site/media/posts/1/responsive/IMG_0631-lg.jpg 1024w ,https://lettyltrevino.github.io/Publii-Site/media/posts/1/responsive/IMG_0631-xl.jpg 1360w ,https://lettyltrevino.github.io/Publii-Site/media/posts/1/responsive/IMG_0631-2xl.jpg 1600w"  alt="Profile image of Letty Treviño" width="2316" height="3088">
+<figcaption >Caption</figcaption>
+</figure>
+<p>My final project for this class will be the first episode of a podcast. My dissertation explores the experiences of U.S. Latinas in Predominantly White Educational Spaces. Part of my research is creating digital stories that illuminate different hurdles U.S. Latinas face in higher education. I'm centering our experiences as those experiences that are most important. Our stories are both the primary sources and the analysis of this experience. Those are all wordy things to say: what we have to say is important, and our stories are enough for a dissertation. The final will be my first version of this podcast.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
